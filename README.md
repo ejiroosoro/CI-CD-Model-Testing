@@ -1,6 +1,6 @@
 # 🤖 ML CI/CD Pipeline
 
-![ML Model CI](https://github.com/ejiroosoro/ml-cicd-pipeline/actions/workflows/ci.yml/badge.svg)
+![ML Model CI](https://github.com/ejiroosoro/ci-cd-model-testing/actions/workflows/ci.yml/badge.svg)
 
 A machine learning portfolio project that trains an Iris flower classifier and runs automated tests on every push using GitHub Actions — with a live green ✓ badge on the repo.
 
@@ -36,7 +36,7 @@ ml-cicd-pipeline/
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/ejiroosoro/ml-cicd-pipeline.git
+git clone https://github.com/ejiroosoro/ci-cd-model-testing.git
 cd ml-cicd-pipeline
 pip install -r requirements.txt
 
