@@ -36,7 +36,7 @@ ml-cicd-pipeline/
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/YOUR_USERNAME/ml-cicd-pipeline.git
+git clone https://github.com/ejiroosoro/ml-cicd-pipeline.git
 cd ml-cicd-pipeline
 pip install -r requirements.txt
 
