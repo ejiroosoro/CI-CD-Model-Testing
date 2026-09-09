@@ -72,9 +72,8 @@ Every push to `main` automatically:
 4. Runs all pytest tests
 5. Shows ✅ or ❌ on the repo
 
-To get the green badge replace `YOUR_USERNAME` in the badge URL at the top of this README.
 
----
+-
 
 ## 🧠 What This Project Demonstrates
 
